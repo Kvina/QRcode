@@ -68,7 +68,7 @@
       <file leaf-file-name="EncodeDemo.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/google/zxing/client/j2se/EncodeDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="10" selection-start="1100" selection-end="1100" vertical-scroll-proportion="0.5689046">
+            <state line="38" column="4" selection-start="1089" selection-end="1089" vertical-scroll-proportion="0.5282686">
               <folding />
             </state>
           </provider>
@@ -445,7 +445,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/google/zxing/client/j2se/EncodeDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="10" selection-start="1100" selection-end="1100" vertical-scroll-proportion="0.5689046">
+        <state line="38" column="4" selection-start="1089" selection-end="1089" vertical-scroll-proportion="0.5282686">
           <folding />
         </state>
       </provider>
