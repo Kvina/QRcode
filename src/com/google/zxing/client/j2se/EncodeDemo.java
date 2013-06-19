@@ -37,6 +37,7 @@ public class EncodeDemo {
  }
  //编码
  /**
+  * 123
   * 在编码时需要将com.google.zxing.qrcode.encoder.Encoder.java中的
   *  static final String DEFAULT_BYTE_MODE_ENCODING = "ISO8859-1";修改为UTF-8，否则中文编译后解析不了
   */
